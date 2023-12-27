@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/GitLearning4/static/css/main.073c9b0a.css",
-    "main.js": "/GitLearning4/static/js/main.b8ea765a.js",
-    "static/js/787.a86f3764.chunk.js": "/GitLearning4/static/js/787.a86f3764.chunk.js",
-    "static/media/logo.svg": "/GitLearning4/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/GitLearning4/index.html",
-    "main.073c9b0a.css.map": "/GitLearning4/static/css/main.073c9b0a.css.map",
-    "main.b8ea765a.js.map": "/GitLearning4/static/js/main.b8ea765a.js.map",
-    "787.a86f3764.chunk.js.map": "/GitLearning4/static/js/787.a86f3764.chunk.js.map"
+    "main.css": "/Lab4/static/css/main.073c9b0a.css",
+    "main.js": "/Lab4/static/js/main.d6a7c88c.js",
+    "static/js/787.a86f3764.chunk.js": "/Lab4/static/js/787.a86f3764.chunk.js",
+    "static/media/logo.svg": "/Lab4/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Lab4/index.html",
+    "main.073c9b0a.css.map": "/Lab4/static/css/main.073c9b0a.css.map",
+    "main.d6a7c88c.js.map": "/Lab4/static/js/main.d6a7c88c.js.map",
+    "787.a86f3764.chunk.js.map": "/Lab4/static/js/787.a86f3764.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b8ea765a.js"
+    "static/js/main.d6a7c88c.js"
   ]
 }
