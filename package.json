@@ -2,7 +2,7 @@
   "name": "test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://unclepurgen.github.io/Lab4/",
+  "homepage": "https://bearegor.github.io/GitLearning4/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -40,6 +40,13 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^8.50.0"
-  }
+    "@semantic-release/commit-analyzer": "^11.1.0",
+    "@semantic-release/github": "^9.2.1",
+    "@semantic-release/release-notes-generator": "^12.1.0",
+    "eslint": "^8.50.0",
+    "semantic-release": "^22.0.7"
+  },
+  "repository": {
+    "url": "https://github.com/Bearegor/GitLearning4"
+    }
 }
